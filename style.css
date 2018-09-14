@@ -4,5 +4,6 @@ p {
     align-self: center;
     align-items: center;
     flex-wrap: wrap;
+    height: 100vh;
     
 }
